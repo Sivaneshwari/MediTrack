@@ -1,0 +1,285 @@
+﻿app/student-home.tsx(23,30): error TS6142: Module '../components/BloodGroupPicker' was resolved to 'D:/SW_PROJECT/meditrack1/components/BloodGroupPicker.tsx', but '--jsx' is not set.
+app/student-home.tsx(24,26): error TS6142: Module '../components/BookingModal' was resolved to 'D:/SW_PROJECT/meditrack1/components/BookingModal.tsx', but '--jsx' is not set.
+app/student-home.tsx(26,25): error TS6142: Module '../components/RulerPicker' was resolved to 'D:/SW_PROJECT/meditrack1/components/RulerPicker.tsx', but '--jsx' is not set.
+app/student-home.tsx(27,26): error TS6142: Module '../components/ui/ActionButton' was resolved to 'D:/SW_PROJECT/meditrack1/components/ui/ActionButton.tsx', but '--jsx' is not set.
+app/student-home.tsx(304,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(305,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(306,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(310,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(311,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(312,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(314,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(316,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(319,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(320,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(321,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(324,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(325,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(329,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(331,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(338,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(339,37): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(345,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(346,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(347,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(348,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(349,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(355,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(356,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(357,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(358,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(361,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(362,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(363,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(368,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(369,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(370,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(371,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(373,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(375,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(376,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(377,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(379,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(384,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(385,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(386,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(387,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(389,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(391,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(395,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(396,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(398,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(402,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(403,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(404,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(405,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(410,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(411,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(412,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(416,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(417,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(418,37): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(419,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(420,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(422,37): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(423,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(424,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(428,37): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(429,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(443,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(451,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(459,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(465,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(466,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(467,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(469,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(470,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(472,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(474,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(477,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(478,45): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(482,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(483,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(484,37): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(488,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(489,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(490,37): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(492,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(493,45): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(496,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(499,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(500,37): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(501,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(502,56): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(505,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(514,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(515,37): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(516,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(517,56): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(520,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(532,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(542,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(545,37): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(546,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(547,45): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(549,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(552,37): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(553,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(562,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(568,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(569,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(570,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(571,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(573,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(575,37): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(576,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(577,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(581,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(582,45): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(583,49): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(585,45): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(586,49): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(587,49): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(588,49): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(595,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(596,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(604,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(610,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(611,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(612,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(613,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(615,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(617,37): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(618,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(619,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(623,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(624,45): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(625,49): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(626,49): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(628,45): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(630,49): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(631,53): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(632,53): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(633,53): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(641,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(642,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(649,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(655,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(656,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(658,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(659,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(660,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(663,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(664,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(668,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+app/student-home.tsx(669,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+node_modules/@expo/vector-icons/build/createIconSet.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/@expo/vector-icons/build/createIconSet.d.ts(25,18): error TS2320: Interface 'IconButtonProps<GLYPHS>' cannot simultaneously extend types 'IconProps<GLYPHS>' and 'TouchableHighlightProps'.
+  Named property 'pressRetentionOffset' of types 'IconProps<GLYPHS>' and 'TouchableHighlightProps' are not identical.
+node_modules/@react-navigation/core/lib/typescript/src/StaticNavigation.d.ts(35,27): error TS2315: Type 'StaticParamList' is not generic.
+node_modules/@react-navigation/core/lib/typescript/src/StaticNavigation.d.ts(35,137): error TS2315: Type 'StaticParamList' is not generic.
+node_modules/@react-navigation/core/lib/typescript/src/StaticNavigation.d.ts(130,13): error TS2456: Type alias 'StaticParamList' circularly references itself.
+node_modules/@react-navigation/core/lib/typescript/src/useNavigationBuilder.d.ts(86,136): error TS2344: Type 'Omit<{ dispatch(action: Readonly<{ type: string; payload?: object; source?: string; target?: string; }> | ((state: Readonly<State>) => Readonly<{ type: string; payload?: object; source?: string; target?: string; }>)): void; ... 9 more ...; getState(): State; } & PrivateValueStore<...>, "getParent"> & ... 4 more ... ...' does not satisfy the constraint 'NavigationProp<any, any, any, any, any, any>'.
+  Type 'Omit<{ dispatch(action: Readonly<{ type: string; payload?: object; source?: string; target?: string; }> | ((state: Readonly<State>) => Readonly<{ type: string; payload?: object; source?: string; target?: string; }>)): void; ... 9 more ...; getState(): State; } & PrivateValueStore<...>, "getParent"> & ... 4 more ... ...' is not assignable to type 'Omit<NavigationHelpersCommon<any, any>, "getParent">'.
+    Types of property 'preload' are incompatible.
+      Type '<RouteName extends string>(...args: RouteName extends unknown ? [screen: RouteName, params?: object] : never) => void' is not assignable to type '<RouteName extends string | number | symbol>(...args: RouteName extends unknown ? [screen: RouteName, params?: any] : never) => void'.
+        Types of parameters 'screen' and 'args' are incompatible.
+          Type 'RouteName extends unknown ? [screen: RouteName, params?: any] : never' is not assignable to type '[screen: string, params?: object]'.
+            Type '[screen: string, params?: any] | [screen: number, params?: any] | [screen: symbol, params?: any]' is not assignable to type '[screen: string, params?: object]'.
+              Type '[screen: number, params?: any]' is not assignable to type '[screen: string, params?: object]'.
+                Type at position 0 in source is not compatible with type at position 0 in target.
+                  Type 'number' is not assignable to type 'string'.
+node_modules/@react-navigation/core/lib/typescript/src/useNavigationBuilder.d.ts(138,77): error TS2344: Type 'Omit<{ dispatch(action: Readonly<{ type: string; payload?: object; source?: string; target?: string; }> | ((state: Readonly<State>) => Readonly<{ type: string; payload?: object; source?: string; target?: string; }>)): void; ... 9 more ...; getState(): State; } & PrivateValueStore<...>, "getParent"> & ... 4 more ... ...' does not satisfy the constraint 'NavigationProp<any, any, any, any, any, any>'.
+  Type 'Omit<{ dispatch(action: Readonly<{ type: string; payload?: object; source?: string; target?: string; }> | ((state: Readonly<State>) => Readonly<{ type: string; payload?: object; source?: string; target?: string; }>)): void; ... 9 more ...; getState(): State; } & PrivateValueStore<...>, "getParent"> & ... 4 more ... ...' is not assignable to type 'Omit<NavigationHelpersCommon<any, any>, "getParent">'.
+    Types of property 'preload' are incompatible.
+      Type '<RouteName extends string>(...args: RouteName extends unknown ? [screen: RouteName, params?: object] : never) => void' is not assignable to type '<RouteName extends string | number | symbol>(...args: RouteName extends unknown ? [screen: RouteName, params?: any] : never) => void'.
+        Types of parameters 'screen' and 'args' are incompatible.
+          Type 'RouteName extends unknown ? [screen: RouteName, params?: any] : never' is not assignable to type '[screen: string, params?: object]'.
+            Type '[screen: string, params?: any] | [screen: number, params?: any] | [screen: symbol, params?: any]' is not assignable to type '[screen: string, params?: object]'.
+              Type '[screen: number, params?: any]' is not assignable to type '[screen: string, params?: object]'.
+                Type at position 0 in source is not compatible with type at position 0 in target.
+                  Type 'number' is not assignable to type 'string'.
+node_modules/@react-navigation/native-stack/lib/typescript/src/types.d.ts(3,58): error TS2305: Module '"react-native-screens"' has no exported member 'ScrollEdgeEffect'.
+node_modules/@types/node/module.d.ts(804,13): error TS2403: Subsequent variable declarations must have the same type.  Variable 'require' must be of type 'NodeRequire', but here has type 'Require'.
+node_modules/expo-modules-core/build/NativeViewManagerAdapter.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/expo-router/build/ExpoRoot.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/expo-router/build/layouts/TabsClient.d.ts(3,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/expo-router/build/layouts/TabsClient.d.ts(16,210): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(17,216): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(18,212): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(19,196): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(20,194): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(21,196): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(28,210): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(29,216): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(30,212): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(31,196): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(32,194): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(33,196): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(65,210): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(66,216): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(67,212): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(68,196): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(69,194): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(70,196): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(77,210): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(78,216): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(79,212): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(80,196): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(81,194): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(82,196): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(109,210): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(110,216): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(111,212): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(112,196): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(113,194): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(114,196): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(121,210): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(122,216): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(123,212): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(124,196): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(125,194): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/layouts/TabsClient.d.ts(126,196): error TS2344: Type 'unknown' does not satisfy the constraint 'boolean'.
+node_modules/expo-router/build/link/elements.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/expo-router/build/useScreens.d.ts(2,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/expo-router/build/views/Sitemap.d.ts(2,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/expo-router/build/views/Try.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/expo-router/build/views/Unmatched.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-native-reanimated/lib/typescript/component/ScrollView.d.ts(2,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-native-reanimated/lib/typescript/createAnimatedComponent/AnimatedComponent.d.ts(2,13): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-native-reanimated/lib/typescript/jestUtils.d.ts(1,40): error TS2307: Cannot find module 'react-test-renderer' or its corresponding type declarations.
+node_modules/react-native-screens/lib/typescript/components/bottom-tabs/BottomTabs.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-native-screens/lib/typescript/components/bottom-tabs/BottomTabsScreen.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-native-screens/lib/typescript/components/FullWindowOverlay.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-native-screens/lib/typescript/components/gamma/ScreenStackHost.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-native-screens/lib/typescript/components/gamma/SplitViewHost.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-native-screens/lib/typescript/components/gamma/SplitViewScreen.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-native-screens/lib/typescript/components/gamma/StackScreen.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-native-screens/lib/typescript/components/Screen.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-native-screens/lib/typescript/components/ScreenContainer.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-native-screens/lib/typescript/components/ScreenContentWrapper.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-native-screens/lib/typescript/components/ScreenFooter.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-native-screens/lib/typescript/components/ScreenStack.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-native-screens/lib/typescript/components/ScreenStackHeaderConfig.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-native-screens/lib/typescript/components/ScreenStackHeaderConfig.d.ts(7,79): error TS2503: Cannot find namespace 'JSX'.
+node_modules/react-native-screens/lib/typescript/components/ScreenStackHeaderConfig.d.ts(8,72): error TS2503: Cannot find namespace 'JSX'.
+node_modules/react-native-screens/lib/typescript/components/ScreenStackHeaderConfig.d.ts(9,71): error TS2503: Cannot find namespace 'JSX'.
+node_modules/react-native-screens/lib/typescript/components/ScreenStackHeaderConfig.d.ts(10,73): error TS2503: Cannot find namespace 'JSX'.
+node_modules/react-native-screens/lib/typescript/components/ScreenStackHeaderConfig.d.ts(11,76): error TS2503: Cannot find namespace 'JSX'.
+node_modules/react-native-screens/lib/typescript/components/SearchBar.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-native-screens/lib/typescript/native-stack/types.d.ts(72,155): error TS2344: Type 'StackNavigationState<ParamList>' does not satisfy the constraint 'string'.
+node_modules/react-native-screens/lib/typescript/native-stack/types.d.ts(537,41): error TS2314: Generic type 'DefaultNavigatorOptions' requires 6 type argument(s).
+node_modules/react-native-screens/lib/typescript/native-stack/types.d.ts(541,37): error TS2314: Generic type 'Descriptor' requires 3 type argument(s).
+node_modules/react-native-screens/lib/typescript/types.d.ts(1,8): error TS1259: Module '"D:/SW_PROJECT/meditrack1/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-native/src/types/globals.d.ts(10,1): error TS6200: Definitions of the following identifiers conflict with those in another file: EndingType, BlobPart, BufferSource, FormData, RequestInfo, XMLHttpRequestResponseType, AbortSignal, AbortController
+node_modules/react-native/src/types/globals.d.ts(166,7): error TS2403: Subsequent variable declarations must have the same type.  Variable 'Blob' must be of type '{ new (blobParts?: BlobPart[], options?: BlobPropertyBag): Blob; prototype: Blob; }', but here has type '{ new (blobParts?: (string | Blob)[], options?: BlobOptions): Blob; prototype: Blob; }'.
+node_modules/react-native/src/types/globals.d.ts(180,7): error TS2403: Subsequent variable declarations must have the same type.  Variable 'File' must be of type '{ new (fileBits: BlobPart[], fileName: string, options?: FilePropertyBag): File; prototype: File; }', but here has type '{ new (fileParts: BlobPart[], name: string, options?: FilePropertyBag): File; prototype: File; }'.
+node_modules/react-native/src/types/globals.d.ts(266,5): error TS2717: Subsequent property declarations must have the same type.  Property 'body' must be of type 'BodyInit', but here has type 'BodyInit_'.
+node_modules/react-native/src/types/globals.d.ts(275,5): error TS2717: Subsequent property declarations must have the same type.  Property 'signal' must be of type 'AbortSignal', but here has type 'AbortSignal'.
+node_modules/react-native/src/types/globals.d.ts(285,14): error TS2717: Subsequent property declarations must have the same type.  Property 'signal' must be of type 'AbortSignal', but here has type 'AbortSignal'.
+node_modules/react-native/src/types/globals.d.ts(289,7): error TS2403: Subsequent variable declarations must have the same type.  Variable 'Request' must be of type '{ new (input: RequestInfo | URL, init?: RequestInit): Request; prototype: Request; }', but here has type '{ new (input: string | Request, init?: RequestInit): Request; prototype: Request; }'.
+node_modules/react-native/src/types/globals.d.ts(313,7): error TS2403: Subsequent variable declarations must have the same type.  Variable 'Response' must be of type '{ new (body?: BodyInit, init?: ResponseInit): Response; prototype: Response; error(): Response; json(data: any, init?: ResponseInit): Response; redirect(url: string | URL, status?: number): Response; }', but here has type '{ new (body?: BodyInit_, init?: ResponseInit): Response; prototype: Response; error(): Response; json(data: any, init?: ResponseInit): Response; redirect: (url: string | URL, status?: number) => Response; }'.
+node_modules/react-native/src/types/globals.d.ts(398,5): error TS2717: Subsequent property declarations must have the same type.  Property 'abort' must be of type 'ProgressEvent<XMLHttpRequestEventTarget>', but here has type 'ProgressEvent<EventTarget>'.
+node_modules/react-native/src/types/globals.d.ts(399,5): error TS2717: Subsequent property declarations must have the same type.  Property 'error' must be of type 'ProgressEvent<XMLHttpRequestEventTarget>', but here has type 'ProgressEvent<EventTarget>'.
+node_modules/react-native/src/types/globals.d.ts(400,5): error TS2717: Subsequent property declarations must have the same type.  Property 'load' must be of type 'ProgressEvent<XMLHttpRequestEventTarget>', but here has type 'ProgressEvent<EventTarget>'.
+node_modules/react-native/src/types/globals.d.ts(401,5): error TS2717: Subsequent property declarations must have the same type.  Property 'loadend' must be of type 'ProgressEvent<XMLHttpRequestEventTarget>', but here has type 'ProgressEvent<EventTarget>'.
+node_modules/react-native/src/types/globals.d.ts(402,5): error TS2717: Subsequent property declarations must have the same type.  Property 'loadstart' must be of type 'ProgressEvent<XMLHttpRequestEventTarget>', but here has type 'ProgressEvent<EventTarget>'.
+node_modules/react-native/src/types/globals.d.ts(403,5): error TS2717: Subsequent property declarations must have the same type.  Property 'progress' must be of type 'ProgressEvent<XMLHttpRequestEventTarget>', but here has type 'ProgressEvent<EventTarget>'.
+node_modules/react-native/src/types/globals.d.ts(404,5): error TS2717: Subsequent property declarations must have the same type.  Property 'timeout' must be of type 'ProgressEvent<XMLHttpRequestEventTarget>', but here has type 'ProgressEvent<EventTarget>'.
+node_modules/react-native/src/types/globals.d.ts(471,7): error TS2403: Subsequent variable declarations must have the same type.  Variable 'URL' must be of type '{ new (url: string | URL, base?: string | URL): URL; prototype: URL; canParse(url: string | URL, base?: string | URL): boolean; createObjectURL(obj: Blob | MediaSource): string; parse(url: string | URL, base?: string | URL): URL; revokeObjectURL(url: string): void; }', but here has type '{ new (url: string | URL, base?: string | URL): URL; prototype: URL; createObjectURL(obj: Blob): string; revokeObjectURL(url: string): void; }'.
+node_modules/react-native/src/types/globals.d.ts(534,5): error TS2717: Subsequent property declarations must have the same type.  Property 'onopen' must be of type '(this: WebSocket, ev: Event) => any', but here has type '() => void'.
+node_modules/react-native/src/types/globals.d.ts(535,5): error TS2717: Subsequent property declarations must have the same type.  Property 'onmessage' must be of type '(this: WebSocket, ev: MessageEvent<any>) => any', but here has type '(event: WebSocketMessageEvent) => void'.
+node_modules/react-native/src/types/globals.d.ts(536,5): error TS2717: Subsequent property declarations must have the same type.  Property 'onerror' must be of type '(this: WebSocket, ev: Event) => any', but here has type '(event: WebSocketErrorEvent) => void'.
+node_modules/react-native/src/types/globals.d.ts(537,5): error TS2717: Subsequent property declarations must have the same type.  Property 'onclose' must be of type '(this: WebSocket, ev: CloseEvent) => any', but here has type '(event: WebSocketCloseEvent) => void'.
+node_modules/react-native/src/types/globals.d.ts(538,5): error TS2717: Subsequent property declarations must have the same type.  Property 'addEventListener' must be of type '{ <K extends keyof WebSocketEventMap>(type: K, listener: (this: WebSocket, ev: WebSocketEventMap[K]) => any, options?: boolean | AddEventListenerOptions): void; (type: string, listener: EventListenerOrEventListenerObject, options?: boolean | AddEventListenerOptions): void; }', but here has type 'WebsocketEventListener'.
+node_modules/react-native/src/types/globals.d.ts(539,5): error TS2717: Subsequent property declarations must have the same type.  Property 'removeEventListener' must be of type '{ <K extends keyof WebSocketEventMap>(type: K, listener: (this: WebSocket, ev: WebSocketEventMap[K]) => any, options?: boolean | EventListenerOptions): void; (type: string, listener: EventListenerOrEventListenerObject, options?: boolean | EventListenerOptions): void; }', but here has type 'WebsocketEventListener'.
+node_modules/react-native/src/types/globals.d.ts(542,7): error TS2403: Subsequent variable declarations must have the same type.  Variable 'WebSocket' must be of type '{ new (url: string | URL, protocols?: string | string[]): WebSocket; prototype: WebSocket; readonly CONNECTING: 0; readonly OPEN: 1; readonly CLOSING: 2; readonly CLOSED: 3; }', but here has type '{ new (uri: string, protocols?: string | string[], options?: { [optionName: string]: any; headers: { [headerName: string]: string; }; }): WebSocket; prototype: WebSocket; readonly CLOSED: number; readonly CLOSING: number; readonly CONNECTING: number; readonly OPEN: number; }'.
+node_modules/react-native/src/types/globals.d.ts(627,14): error TS2717: Subsequent property declarations must have the same type.  Property 'error' must be of type 'DOMException', but here has type 'Error'.
+node_modules/react-native/src/types/globals.d.ts(640,14): error TS2717: Subsequent property declarations must have the same type.  Property 'readyState' must be of type '0 | 2 | 1', but here has type 'number'.
+node_modules/typescript/lib/lib.dom.d.ts(23,1): error TS6200: Definitions of the following identifiers conflict with those in another file: EndingType, BlobPart, BufferSource, FormData, RequestInfo, XMLHttpRequestResponseType, AbortSignal, AbortController
+node_modules/typescript/lib/lib.dom.d.ts(32640,11): error TS2430: Interface 'URL' incorrectly extends interface 'import("node:url").URL'.
+  The types returned by 'searchParams[Symbol.iterator]()' are incompatible between these types.
+    Property '[Symbol.dispose]' is missing in type 'IterableIterator<[string, string]>' but required in type 'URLSearchParamsIterator<[string, string]>'.
+node_modules/typescript/lib/lib.dom.d.ts(32759,11): error TS2430: Interface 'URLSearchParams' incorrectly extends interface 'import("node:url").URLSearchParams'.
+  The types returned by '[Symbol.iterator]()' are incompatible between these types.
+    Property '[Symbol.dispose]' is missing in type 'IterableIterator<[string, string]>' but required in type 'URLSearchParamsIterator<[string, string]>'.

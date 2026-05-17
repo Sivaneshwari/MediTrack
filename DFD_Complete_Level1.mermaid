@@ -1,0 +1,77 @@
+graph TD
+    %% Style Definitions (Optional for draw.io but good for preview)
+    classDef entity fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef process fill:#e1f5fe,stroke:#0277bd,stroke-width:2px;
+    classDef store fill:#ffe0b2,stroke:#f57c00,stroke-width:2px;
+
+    %% Entities (External Actors)
+    Student[Student]:::entity
+    Staff[Staff]:::entity
+    Admin[Admin]:::entity
+
+    %% Processes (Level 1 DFD)
+    P1((1. Authentication)):::process
+    P2((2. Appointment &<br>Emergency Booking)):::process
+    P3((3. Prescription &<br>History)):::process
+    P4((4. Inventory &<br>Stock Mgmt)):::process
+    P5((5. Profile &<br>User Mgmt)):::process
+    P6((6. Emergency &<br>Blood Bank)):::process
+    P7((7. Analytics &<br>Reporting)):::process
+
+    %% Data Stores
+    D1[(Users DB)]:::store
+    D2[(Appointments DB)]:::store
+    D3[(Inventory DB)]:::store
+    D4[(Medical Records DB)]:::store
+    D5[(Notifications DB)]:::store
+
+    %% ---------------- Data Flows ---------------- %%
+
+    %% 1. Authentication
+    Student -->|Login/Register Info| P1
+    Staff -->|Login/Register Info| P1
+    Admin -->|Login Credentials| P1
+    P1 <-->|Verify User & Role| D1
+    P1 -->|Auth Token| Student
+    P1 -->|Auth Token| Staff
+    P1 -->|Auth Token| Admin
+
+    %% 2. Appointment Booking
+    Student -->|Book Slot / Emergency| P2
+    Staff -->|Book Slot| P2
+    Admin -->|Manage Appointments| P2
+    P2 <-->|Read/Write Appt Data| D2
+    P2 -->|Confirmation/Status| Student
+    P2 -->|Confirmation/Status| Staff
+    
+    %% 3. Prescriptions & History
+    Admin -->|Create Prescription| P3
+    P3 <-->|Save Record| D4
+    P3 -.->|Link to Appt| D2
+    P3 -->|View History| Student
+    P3 -->|View History| Staff
+
+    %% 4. Inventory Management
+    Admin -->|Update/Add Items| P4
+    P4 <-->|Update Stock Levels| D3
+    P3 -.->|Deduct Medicine| P4
+
+    %% 5. User & Profile Management
+    Student -->|Update Profile (Weight/Height)| P5
+    Staff -->|Update Profile| P5
+    Admin -->|Manage Users| P5
+    P5 <-->|Read/Write User Data| D1
+
+    %% 6. Emergency & Blood Bank
+    Admin -->|Trigger Blood Alert| P6
+    P6 -.->|Query Blood Groups| D1
+    P6 -->|Log Notification| D5
+    D5 -->|Push Alert| Student
+    D5 -->|Push Alert| Staff
+
+    %% 7. Analytics & Reporting
+    Admin -->|Request Reports| P7
+    P7 -.->|Fetch Appt Stats| D2
+    P7 -.->|Fetch Inventory Stats| D3
+    P7 -.->|Fetch User Stats| D1
+    P7 -->|Export PDF/Excel| Admin

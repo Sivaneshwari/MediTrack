@@ -1,0 +1,39 @@
+graph TD
+    %% Style Definitions
+    classDef entity fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef system fill:#e1f5fe,stroke:#0277bd,stroke-width:2px;
+
+    %% External Entities
+    Student[Student]:::entity
+    Staff[Staff]:::entity
+    Admin[Admin]:::entity
+
+    %% System Node (The entire application)
+    System((MediTrack System)):::system
+
+    %% ---------------- Data Flows ---------------- %%
+
+    %% Student Interactions
+    Student -->|Login Credentials| System
+    Student -->|Book Appointment / Emergency| System
+    Student -->|Update Profile (Height/Weight)| System
+    System -->|Booking Confirmation| Student
+    System -->|Medical History & Reports| Student
+    System -->|Emergency/Blood Alerts| Student
+
+    %% Staff Interactions
+    Staff -->|Login Credentials| System
+    Staff -->|Request Appointment| System
+    Staff -->|Update Profile| System
+    System -->|Booking Confirmation| Staff
+    System -->|Medical History| Staff
+    System -->|Emergency Alerts| Staff
+
+    %% Admin Interactions
+    Admin -->|Login Credentials| System
+    Admin -->|Manage Users & Roles| System
+    Admin -->|Update Inventory & Stock| System
+    Admin -->|Manage Appointments & Prescriptions| System
+    Admin -->|Trigger Notifications| System
+    System -->|System Reports & Analytics| Admin
+    System -->|Low Stock Alerts| Admin

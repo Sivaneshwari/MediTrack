@@ -1,0 +1,55 @@
+graph TD
+    %% External Entities
+    Student[Student]
+    Staff[Staff]
+    Admin[Admin]
+
+    %% Processes
+    P1(Authentication System)
+    P2(Appointment Management)
+    P3(Inventory Management)
+    P4(Profile & User Management)
+    P5(Notification System)
+
+    %% Data Stores
+    D1[(Users Database)]
+    D2[(Appointments & History)]
+    D3[(Inventory & Medicines)]
+    D4[(Notifications)]
+
+    %% Authentication Data Flows
+    Student -->|Login/Signup Credentials| P1
+    Staff -->|Login/Signup Credentials| P1
+    Admin -->|Login Credentials| P1
+    P1 <-->|Validate User & Check Role| D1
+    P1 -->|Auth Token/Access| Student
+    P1 -->|Auth Token/Access| Staff
+    P1 -->|Auth Token/Access| Admin
+
+    %% Appointment System Data Flows
+    Student -->|Request Slot/Book| P2
+    Staff -->|Request Slot/Book| P2
+    P2 <-->|Check Availability/Create Appt| D2
+    P2 -->|Booking Confirmation| Student
+    P2 -->|Booking Confirmation| Staff
+    P2 -->|View Medical History| Student
+    P2 -->|View Medical History| Staff
+    D2 <-->|Fetch Prescriptions| P2
+
+    %% Inventory System Data Flows
+    Admin -->|Add/Update/Scan Items| P3
+    P3 <-->|Update Stock Levels| D3
+    D2 -.->|Prescription Details| P3
+    P3 -.->|Deduct Medicine Stock| D3
+
+    %% Profile System Data Flows
+    Student -->|Update Height/Weight| P4
+    Staff -->|Update Profile Info| P4
+    Admin -->|Manage User Accounts| P4
+    P4 <-->|Update User Records| D1
+
+    %% Notification System Data Flows
+    P5 <-->|Fetch Alerts| D4
+    P5 -->|Display Notifications| Student
+    P5 -->|Display Notifications| Staff
+    D1 -.->|User Group Info| P5

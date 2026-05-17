@@ -3,40 +3,68 @@
  * There are many other ways to style your app. For example, [Nativewind](https://www.nativewind.dev/), [Tamagui](https://tamagui.dev/), [unistyles](https://reactnativeunistyles.vercel.app), etc.
  */
 
+import { DarkTheme as NavDarkTheme, DefaultTheme as NavDefaultTheme } from '@react-navigation/native';
 import { Platform } from 'react-native';
 
-const tintColorLight = '#0a7ea4';
-const tintColorDark = '#fff';
+const tintColorLight = '#133C55';
+const tintColorDark = '#91E5F6';
 
 export const Colors = {
   light: {
-    text: '#11181C',
-    background: '#fff',
+    text: '#133C55',
+    background: '#FFFFFF',
     tint: tintColorLight,
-    icon: '#687076',
-    tabIconDefault: '#687076',
+    icon: '#386FA4',
+    tabIconDefault: '#59A5D8',
     tabIconSelected: tintColorLight,
   },
   dark: {
-    text: '#ECEDEE',
-    background: '#151718',
+    text: '#91E5F6',
+    background: '#133C55',
     tint: tintColorDark,
-    icon: '#9BA1A6',
-    tabIconDefault: '#9BA1A6',
+    icon: '#84D2F6',
+    tabIconDefault: '#84D2F6',
     tabIconSelected: tintColorDark,
+  },
+};
+
+export const NavTheme = {
+  light: {
+    ...NavDefaultTheme,
+    colors: {
+      ...NavDefaultTheme.colors,
+      primary: '#133C55',
+      background: '#FFFFFF',
+      card: '#FFFFFF',
+      text: '#133C55',
+      border: '#F1F5F9',
+      notification: '#EF4444',
+    },
+  },
+  dark: {
+    ...NavDarkTheme,
+    colors: {
+      ...NavDarkTheme.colors,
+      primary: '#91E5F6',
+      background: '#133C55',
+      card: '#133C55',
+      text: '#91E5F6',
+      border: '#386FA4',
+      notification: '#EF4444',
+    },
   },
 };
 
 export const Fonts = Platform.select({
   ios: {
     /** iOS `UIFontDescriptorSystemDesignDefault` */
-    sans: 'system-ui',
+    sans: 'System',
     /** iOS `UIFontDescriptorSystemDesignSerif` */
-    serif: 'ui-serif',
+    serif: 'Georgia',
     /** iOS `UIFontDescriptorSystemDesignRounded` */
-    rounded: 'ui-rounded',
+    rounded: 'System',
     /** iOS `UIFontDescriptorSystemDesignMonospaced` */
-    mono: 'ui-monospace',
+    mono: 'Courier New',
   },
   default: {
     sans: 'normal',

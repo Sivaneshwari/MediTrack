@@ -2,6 +2,8 @@
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
     "strict": true,
+    "jsx": "react-native",
+    "esModuleInterop": true,
     "paths": {
       "@/*": [
         "./*"
@@ -13,5 +15,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/student-login.tsx", "app/signup.tsx", "app/forgot-password.tsx", "app/admin-login.tsx"  ]
 }
